@@ -6,5 +6,6 @@ public class Demo {
         System.out.println("serer");
         System.out.println("serer");
         System.out.println("serer");
+        System.out.println("master");
     }
 }
